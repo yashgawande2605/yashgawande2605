@@ -92,6 +92,8 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 <img src="https://streak-stats.demolab.com?user=yashgawande2605&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+
 ---
 
 
@@ -144,9 +146,6 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashgawande2605&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 <p align="center">
@@ -165,6 +164,6 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer"/>
 </p>
----
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
