@@ -31,7 +31,7 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 <br>
 
 ---
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashhh_0o_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-gawande-02a338305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashgawande2611@gmail.com) 
 
 # 💻 Tech Stack
@@ -156,7 +156,7 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 ---
 
 <p align="center">
-  ### Thanks for Visiting!!!
+  ### Thanks for Visiting!❤️
 </p>
 
 ---
