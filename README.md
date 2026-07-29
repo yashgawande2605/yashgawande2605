@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gawande</h1>
 
 <h3 align="center">
-DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
+Data Analyst • AI & ML Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -156,7 +156,7 @@ DATA ANALYST • SOFTWARE DEVELOPER • PROBLEM SOLVER
 ---
 
 <p align="center">
-  ### Thanks for Visiting!❤️
+  Thanks for Visiting!❤️
 </p>
 
 ---
